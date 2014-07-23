@@ -9,7 +9,7 @@
     </parent>
     <artifactId>bukkit-utilities-localisation</artifactId>
     <groupId>name.richardson.james.bukkit</groupId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>BukkitUtilities (Localisation)</name>
     <url>http://grandwazir.github.com/${project.name}/</url>
     <description>A utility library containing reusable classes and implementations to aid in localisation.</description>
@@ -43,9 +43,4 @@
             <scope>provided</scope>
         </dependency>
     </dependencies>
-
-
-  <scm>
-    <tag>v1.0.0</tag>
-  </scm>
 </project>
